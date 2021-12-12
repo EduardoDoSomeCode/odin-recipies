@@ -1,0 +1,9 @@
+body{
+  font-family:sans-serif;
+  background:#db8178;
+}
+.strawberry{
+ border-radius:25px;
+ border:6px white;
+ border-style:dotted;
+}
