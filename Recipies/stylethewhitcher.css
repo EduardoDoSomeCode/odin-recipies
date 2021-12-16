@@ -9,3 +9,9 @@ body{
  border:5px white;
  border-style:dotted;
 }
+h1{
+ height:50px;
+ width:550px;
+ background:white;
+ border-radius:2px;
+}
