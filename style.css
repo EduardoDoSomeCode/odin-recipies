@@ -50,7 +50,7 @@ ul{
  background:white;
  display:block;
  margin-left:auto;
- text-decoration:none;
+ list-style-type:none;
  margin-right:auto; 
  line-height:3.0;
 }

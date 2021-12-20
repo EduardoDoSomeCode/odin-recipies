@@ -1,4 +1,3 @@
-
  
 body{
   background:#c8a190;
@@ -10,8 +9,20 @@ body{
  border-style:dotted;
 }
 h1{
+ color:;
  height:50px;
  width:550px;
  background:white;
  border-radius:2px;
 }
+.container-all{
+  border-radius:10px;
+  width:750px;
+  height:800px;
+  background:grey;
+}
+
+
+
+
+

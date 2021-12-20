@@ -7,3 +7,10 @@ body{
  border:6px white;
  border-style:dotted;
 }
+h1{
+ color:grey;
+ height:60px;
+ width:650px;
+ background:white;
+ border-radius:5px;
+}
